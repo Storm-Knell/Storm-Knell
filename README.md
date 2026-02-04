@@ -1,6 +1,6 @@
 👋 Hi, I’m Storm
 
-🎓 First-year Computer Science student at Belgium Campus ITversity, Stellenbosch
+🎓 Computer Science student at Belgium Campus ITversity, Stellenbosch
 💻 Currently learning software fundamentals and building small projects along the way
 📚 Interested in practical problem-solving and growing through hands-on work
 
