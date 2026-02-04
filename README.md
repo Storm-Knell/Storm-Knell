@@ -22,6 +22,8 @@
 📫 Let’s connect
 - GitHub: You’re already here 🙂
 - Email: 605463@student.belgiumcampus.ac.za / stormknell.it@gmail.com
+- Linkedin: www.linkedin.com/in/storm-knell
+
 
 <!--
 **Storm-Knell/Storm-Knell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
